@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+      <PackageId>AllensCompany.Practice.AllenNuGetPack</PackageId>
+      <Authors>AllenCox</Authors>
+      <Company>AllensCompany</Company>
+      <Description>Library to log text to console - practice nuget</Description>
+      <PackageLicenseExpression>Super restricted</PackageLicenseExpression>
+      <PackageTags>Log, Logger, Logging, Practice</PackageTags>
+      <RepositoryUrl>https://github.com/allencpsc/nugetPractice.git</RepositoryUrl>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
